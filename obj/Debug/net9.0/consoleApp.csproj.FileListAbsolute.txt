@@ -12,3 +12,4 @@ C:\Users\EmirBurakKuloglu\Desktop\consoleApp\obj\Debug\net9.0\refint\consoleApp.
 C:\Users\EmirBurakKuloglu\Desktop\consoleApp\obj\Debug\net9.0\consoleApp.pdb
 C:\Users\EmirBurakKuloglu\Desktop\consoleApp\obj\Debug\net9.0\consoleApp.genruntimeconfig.cache
 C:\Users\EmirBurakKuloglu\Desktop\consoleApp\obj\Debug\net9.0\ref\consoleApp.dll
+C:\Users\EmirBurakKuloglu\Desktop\consoleApp\obj\Debug\net9.0\consoleApp.sourcelink.json
