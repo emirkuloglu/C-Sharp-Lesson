@@ -1,5 +1,6 @@
 ﻿Console.WriteLine("Hello World!");
 
+// Nullable types
 int? maas = null;
 bool? isActive = null;
 
